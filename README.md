@@ -22,3 +22,4 @@ $>cat 42.fdf
 
 Con la ejecución, se debe obtener una representación tridimensional alámbrica del modelo, en perspectica isométrica:
 
+![Image text](https://github.com/Muriber/Inception/blob/master/img/example.png)
